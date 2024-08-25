@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/eneagrama/static/css/main.f855e6bc.css",
-    "main.js": "/eneagrama/static/js/main.cb5959be.js",
-    "static/js/453.ef9dc7d5.chunk.js": "/eneagrama/static/js/453.ef9dc7d5.chunk.js",
-    "static/media/logo.svg": "/eneagrama/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/eneagrama/static/css/main.557854ce.css",
+    "main.js": "/eneagrama/static/js/main.2eaadcdd.js",
     "index.html": "/eneagrama/index.html",
-    "main.f855e6bc.css.map": "/eneagrama/static/css/main.f855e6bc.css.map",
-    "main.cb5959be.js.map": "/eneagrama/static/js/main.cb5959be.js.map",
-    "453.ef9dc7d5.chunk.js.map": "/eneagrama/static/js/453.ef9dc7d5.chunk.js.map"
+    "main.557854ce.css.map": "/eneagrama/static/css/main.557854ce.css.map",
+    "main.2eaadcdd.js.map": "/eneagrama/static/js/main.2eaadcdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.cb5959be.js"
+    "static/css/main.557854ce.css",
+    "static/js/main.2eaadcdd.js"
   ]
 }
