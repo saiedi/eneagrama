@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eneagrama/static/css/main.557854ce.css",
-    "main.js": "/eneagrama/static/js/main.785063db.js",
-    "index.html": "/eneagrama/index.html",
-    "main.557854ce.css.map": "/eneagrama/static/css/main.557854ce.css.map",
-    "main.785063db.js.map": "/eneagrama/static/js/main.785063db.js.map"
+    "main.css": "/eneagrama-dev/static/css/main.557854ce.css",
+    "main.js": "/eneagrama-dev/static/js/main.785063db.js",
+    "index.html": "/eneagrama-dev/index.html",
+    "main.557854ce.css.map": "/eneagrama-dev/static/css/main.557854ce.css.map",
+    "main.785063db.js.map": "/eneagrama-dev/static/js/main.785063db.js.map"
   },
   "entrypoints": [
     "static/css/main.557854ce.css",
